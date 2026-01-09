@@ -1,0 +1,29 @@
+# Environment variables with secrets
+.env
+
+# Generated files
+generated_files/
+temp_repos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
